@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.bottom{
+text-align: center;
+}
+.cloud1{
+  position:relative;
+  left: 250px;
+  bottom: 50px;
+}
+.cloud2{
+  display:block;
+  margin-left: 200px;
+}
+.codegif{
+  float:left;
+  margin-right: 30px;
+}
+.copyright{
+  font: small-caps bold 10px/1 sans-serif;
+  color: #a7d0cd;
+  margin-left: 600px;
+}
+.footer-link{
+  font: small-caps bold 20px/1 sans-serif;
+  padding: 10px;
+}
+hr{
+    border-style: double none none none;
+    height: 0;
+    width: 40%;
+    border-width: 5px;
+    border-color: #a7d0cd;
+  }
+h1{
+  font-size: 60px;
+  color: white;
+  margin: 40px auto 0 auto;
+}
+h2{
+  font-size: 50px;
+}
+h3{
+  font-size: 30px;
+  color: white;
+}
+.hello{
+  color: #4ca1a3;
+  margin-left: 360px;
+  width: 50%;
+}
+.city{
+  display:block;
+  margin-bottom: 0;
+  margin-left: 440px;
+
+}
+.mypic{
+  margin-top: 10px;
+}
+.myskill{
+  color: white;
+  margin-top: 20px;
+}
+.only{
+  font: small-caps bold 24px/1 sans-serif;
+  font-size: 3rem;
+  font-weight: lighter;
+}
+p{
+  font-size: 20px;
+  font: small-caps 20px/1 sans-serif;
+  color: white;
+  text-align: left;
+  line-height: 2
+}
+.p1{
+  color: #4ca1a3;
+  margin-left: 30px;
+}
+.profile{
+  margin: 50px auto 50px 50px;
+}
+.quarantine{
+  float:left;
+  margin-right: 30px;
+}
+.skills{
+  background-color: #a7d0cd;
+  padding-top: 50px;
+  text-align: center;
+}
+.skill-row1{
+  width: 50%;
+  margin-left: 350px;
+}
+.skill-row2{
+  width: 50%;
+  margin-left: 350px;
+}
+.skill-row3{
+  width: 50%;
+  margin-left: 350px;
+}
+.top{
+  background-color: #a7d0cd;
+  text-align: center;
+  padding-top: 40px;
+}
+.the{
+  text-align: center;
+}
+.touch{
+  margin-left: 45%;
+}
+.understand{
+  float: right;
+  margin-left: 30px;
+}
